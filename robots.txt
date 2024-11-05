@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oceziaqo.github.io/Lev/sitemap_index.txt
+Sitemap: https://oceziaqo.github.io/hRo/sitemap_index.txt
+Sitemap: https://oceziaqo.github.io/kRE/sitemap_index.txt
+Sitemap: https://oceziaqo.github.io/yQk/sitemap_index.txt
